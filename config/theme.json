@@ -1,0 +1,139 @@
+{
+  "theme": {
+    "name": "Cyber Neon",
+    "version": "2.0.0",
+    "author": "Shakti Kourav"
+  },
+
+  "colors": {
+    "primary": "#00F5A0",
+    "secondary": "#0088FF",
+    "accent": "#7C3AED",
+    "success": "#22C55E",
+    "warning": "#FACC15",
+    "danger": "#EF4444",
+    "background": "#0D1117",
+    "surface": "#161B22",
+    "text": "#FFFFFF",
+    "textSecondary": "#8B949E",
+    "border": "#30363D"
+  },
+
+  "banner": {
+    "type": "waving",
+    "height": 250,
+    "animation": "fadeIn",
+    "font": "Poppins",
+    "fontColor": "#FFFFFF",
+    "gradient": [
+      "#00F5A0",
+      "#00C6FF",
+      "#7C3AED"
+    ]
+  },
+
+  "footer": {
+    "type": "waving",
+    "height": 140,
+    "animation": "fadeIn",
+    "gradient": [
+      "#7C3AED",
+      "#0088FF",
+      "#00F5A0"
+    ]
+  },
+
+  "githubStats": {
+    "theme": "tokyonight",
+    "showIcons": true,
+    "hideBorder": true,
+    "countPrivate": true,
+    "includeAllCommits": true,
+    "rankIcon": "github"
+  },
+
+  "summaryCards": {
+    "theme": "tokyonight"
+  },
+
+  "activityGraph": {
+    "theme": "tokyo-night",
+    "hideBorder": true
+  },
+
+  "trophies": {
+    "theme": "tokyonight",
+    "noFrame": true,
+    "noBackground": true,
+    "rows": 2,
+    "columns": 4
+  },
+
+  "metrics": {
+    "enabled": true,
+    "theme": "tokyonight"
+  },
+
+  "snake": {
+    "theme": "dark",
+    "animation": true
+  },
+
+  "icons": {
+    "style": "skillicons",
+    "size": "48px",
+    "rounded": true
+  },
+
+  "badges": {
+    "style": "for-the-badge",
+    "logoColor": "white",
+    "rounded": true
+  },
+
+  "typingAnimation": {
+    "font": "Poppins",
+    "size": 26,
+    "duration": 3000,
+    "pause": 1000,
+    "center": true,
+    "lines": [
+      "Frontend Developer",
+      "React.js Developer",
+      "DSA Enthusiast",
+      "Cloud Learner",
+      "Open Source Contributor",
+      "Always Learning"
+    ]
+  },
+
+  "sections": {
+    "hero": true,
+    "about": true,
+    "techStack": true,
+    "projects": true,
+    "githubStats": true,
+    "metrics": true,
+    "activity": true,
+    "snake": true,
+    "codingProfiles": true,
+    "achievements": true,
+    "roadmap": true,
+    "contact": true,
+    "footer": true
+  },
+
+  "animations": {
+    "typing": true,
+    "banner": true,
+    "snake": true,
+    "activityGraph": true,
+    "metrics": true
+  },
+
+  "fonts": {
+    "primary": "Poppins",
+    "secondary": "JetBrains Mono",
+    "code": "Fira Code"
+  }
+}

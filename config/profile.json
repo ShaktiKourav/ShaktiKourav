@@ -1,0 +1,146 @@
+{
+  "profile": {
+    "name": "Shakti Kourav",
+    "username": "ShaktiKourav",
+    "title": "Aspiring Software Developer",
+    "tagline": "Frontend Developer • React.js • Tailwind CSS • DSA • Cloud Enthusiast",
+    "location": "India",
+    "email": "kouravshakti72@gmail.com",
+    "website": "",
+    "portfolio": "https://github.com/ShaktiKourav",
+    "avatar": "https://github.com/ShaktiKourav.png"
+  },
+
+  "social": {
+    "github": "https://github.com/ShaktiKourav",
+    "linkedin": "https://linkedin.com/in/shakti-kourav",
+    "leetcode": "https://leetcode.com/u/Shakti_kourav/",
+    "hackerrank": "https://www.hackerrank.com/profile/kouravshakti72",
+    "microsoftLearn": "https://learn.microsoft.com/en-gb/users/shaktikourav-7326/",
+    "gmail": "mailto:kouravshakti72@gmail.com"
+  },
+
+  "education": {
+    "degree": "B.Tech Computer Science & Engineering",
+    "college": "Shri Ram Institute of Technology (SRIT)",
+    "university": "Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV)",
+    "graduationYear": "2027"
+  },
+
+  "roles": [
+    "Frontend Developer",
+    "React.js Developer",
+    "Open Source Learner",
+    "DSA Enthusiast",
+    "Cloud Learner"
+  ],
+
+  "skills": {
+    "languages": [
+      "C++",
+      "Java",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "frontend": [
+      "React",
+      "Tailwind CSS",
+      "Vite"
+    ],
+    "backend": [
+      "Node.js",
+      "Express.js"
+    ],
+    "database": [
+      "MongoDB"
+    ],
+    "cloud": [
+      "AWS"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "VS Code",
+      "Postman",
+      "Figma"
+    ]
+  },
+
+  "projects": [
+    {
+      "name": "DSA-With-CPP",
+      "status": "Completed",
+      "tech": [
+        "C++"
+      ]
+    },
+    {
+      "name": "DSA-With-JAVA",
+      "status": "Completed",
+      "tech": [
+        "Java"
+      ]
+    },
+    {
+      "name": "Portfolio Website",
+      "status": "Completed",
+      "tech": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Face Detection",
+      "status": "Completed",
+      "tech": [
+        "JavaScript",
+        "Face API"
+      ]
+    },
+    {
+      "name": "E-Commerce Website",
+      "status": "In Progress",
+      "tech": [
+        "React",
+        "Tailwind CSS"
+      ]
+    }
+  ],
+
+  "goals2026": [
+    "Solve 500+ LeetCode Problems",
+    "Master React.js",
+    "Learn Backend Development",
+    "Master MongoDB",
+    "Learn AWS",
+    "Contribute to Open Source",
+    "Build Production-Level Projects",
+    "Crack Product-Based Company Interviews"
+  ],
+
+  "codingProfiles": {
+    "leetcodeSolved": 111,
+    "hackerrankSkills": [
+      "Problem Solving",
+      "C++",
+      "CSS"
+    ],
+    "githubRepositories": 8
+  },
+
+  "microsoftLearn": {
+    "level": 11,
+    "xp": 192175,
+    "badges": 119,
+    "trophies": 31
+  },
+
+  "theme": {
+    "primary": "#00F5A0",
+    "secondary": "#0088FF",
+    "background": "#0D1117",
+    "text": "#FFFFFF"
+  }
+}
