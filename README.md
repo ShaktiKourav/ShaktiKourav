@@ -196,11 +196,17 @@ Location:
 # 🚀 ShaktiKourav — Developer Analytics Dashboard
 <div align="center">
 ⚡ GitHub Performance Overview
+<br/>
 <img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=ShaktiKourav&theme=tokyonight&hide_border=true" /> <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaktiKourav&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" /> </div>
-## 🧠 LeetCode Progress Dashboard
+<br/>
+
+ 🧠 LeetCode Progress Dashboard
+ <br/>
 <div align="center"> 
 <img width="50%" src="https://leetcard.jacoblin.cool/ShaktiKourav?theme=dark&font=baloo&ext=contest" /> <img width="48%" src="https://leetcard.jacoblin.cool/ShaktiKourav?theme=unicorn&ext=heatmap" /> </div>
-## 📈 Coding Activity Insights
+<br/>
+ 📈 Coding Activity Insights
+ <br/>
 <div align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShaktiKourav&theme=tokyo-night&hide_border=true&area=true" /> </div>
 
 ---
