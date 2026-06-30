@@ -197,10 +197,10 @@ Location:
 <div align="center">
 ⚡ GitHub Performance Overview
 <img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=ShaktiKourav&theme=tokyonight&hide_border=true" /> <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaktiKourav&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" /> </div>
-🧠 LeetCode Progress Dashboard
+## 🧠 LeetCode Progress Dashboard
 <div align="center"> 
-<img width="48%" src="https://leetcard.jacoblin.cool/ShaktiKourav?theme=dark&font=baloo&ext=contest" /> <img width="48%" src="https://leetcard.jacoblin.cool/ShaktiKourav?theme=unicorn&ext=heatmap" /> </div>
-📈 Coding Activity Insights
+<img width="50%" src="https://leetcard.jacoblin.cool/ShaktiKourav?theme=dark&font=baloo&ext=contest" /> <img width="48%" src="https://leetcard.jacoblin.cool/ShaktiKourav?theme=unicorn&ext=heatmap" /> </div>
+## 📈 Coding Activity Insights
 <div align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShaktiKourav&theme=tokyo-night&hide_border=true&area=true" /> </div>
 
 ---
@@ -208,8 +208,8 @@ Location:
 
 ## 📈 Recent GitHub Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+START_SECTION:activity
+END_SECTION:activity
 
 
 ---
