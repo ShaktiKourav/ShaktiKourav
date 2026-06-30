@@ -197,7 +197,9 @@ Location:
 <div align="center">
 ⚡ GitHub Performance Overview
 <br/>
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=ShaktiKourav&theme=tokyonight&hide_border=true" /> <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaktiKourav&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" /> </div>
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=ShaktiKourav&theme=tokyonight&hide_border=true" /> 
+<br/>
+<img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaktiKourav&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" /> </div>
 <br/>
 
  🧠 LeetCode Progress Dashboard
