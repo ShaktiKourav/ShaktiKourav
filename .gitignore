@@ -1,3 +1,4 @@
+gitignore
 # =========================================================
 # Node.js dependencies
 # =========================================================
@@ -40,11 +41,16 @@ tmp/
 temp/
 
 # =========================================================
-# GitHub Actions cache (optional)
+# GitHub Actions cache
 # =========================================================
 .github/workflows/cache/
 
 # =========================================================
-# IMPORTANT: OUTPUT RULES (FIX FOR YOUR ERROR)
+# IMPORTANT
+# Do NOT ignore output folder
+# Snake, Metrics and 3D Graph are generated here.
 # =========================================================
-# DO NOT ignore output folder (required for snake/metrics/3d)
+
+!output/
+!output/**
+
