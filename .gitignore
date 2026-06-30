@@ -48,5 +48,4 @@ temp/
 # IMPORTANT: OUTPUT RULES (FIX FOR YOUR ERROR)
 # =========================================================
 # DO NOT ignore output folder (required for snake/metrics/3d)
-output/
 !output/.gitkeep
