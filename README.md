@@ -776,51 +776,6 @@ https://github.com/ShaktiKourav/DSA-With-JAVA
 
 ---
 
-## 👁️ Face Detection
-
-<img src="./assets/projects/face-detection.png"/>
-
-Real-time face detection project using computer vision concepts.
-
-### Features
-
-- Face Detection
-- Camera Integration
-- Image Processing
-- Real-Time Detection
-
----
-
-## 🛒 E-Commerce Website
-
-<img src="./assets/projects/ecommerce.png"/>
-
-Modern responsive shopping website.
-
-### Features
-
-- Responsive UI
-- Product Cards
-- Shopping Cart
-- Authentication
-- Clean Design
-
----
-
-## 🌐 Portfolio Website
-
-<img src="./assets/projects/portfolio.png"/>
-
-Personal Portfolio showcasing projects, skills and experience.
-
----
-
-## 🎮 Tic Tac Toe
-
-Simple JavaScript Game with interactive UI.
-
----
-
 # 📂 Repository Showcase
 
 | Repository | Description |
