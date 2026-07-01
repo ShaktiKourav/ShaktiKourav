@@ -343,7 +343,8 @@ END_SECTION:activity
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/ShaktiKourav/ShaktiKourav/output/snake.svg)</div>
+![snake gif](https://github.com/ShaktiKourav/ShaktiKourav/blob/output/github-contribution-grid-snake.gif)
+</div>
 
 </div>
 
