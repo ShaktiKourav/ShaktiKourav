@@ -1,4 +1,4 @@
-name: Generate GitHub Assets (Snake + 3D Profile)
+name: Generate 3D Contribution Graph
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -14,29 +14,18 @@ jobs:
         uses: actions/checkout@v3
 
       # =========================
-      # 🐍 SNAKE ANIMATION
-      # =========================
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg
-
-      # =========================
-      # 🌍 3D CONTRIBUTION PROFILE
+      # 🌍 3D CONTRIBUTION GRAPH
       # =========================
       - name: Generate 3D Profile
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         with:
-          username: ${{ github.repository_owner }}
+          username: ShaktiKourav
           output: dist/profile-3d.svg
 
       # =========================
-      # 🚀 DEPLOY TO OUTPUT BRANCH
+      # 🚀 PUSH TO OUTPUT BRANCH
       # =========================
-      - name: Publish to output branch
+      - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

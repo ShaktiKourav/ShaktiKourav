@@ -350,7 +350,7 @@ END_SECTION:activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ShaktiKourav/ShaktiKourav/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/ShaktiKourav/ShaktiKourav/output/github-contribution-grid-snake.svg" />
 
 </div>
 

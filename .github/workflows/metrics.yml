@@ -9,11 +9,11 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Metrics
+      - name: Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: ${{ github.repository_owner }}
+          user: ShaktiKourav
 
           template: classic
           base: header, activity, community, repositories, metadata
