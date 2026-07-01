@@ -361,19 +361,11 @@ Location:
 
 </div>
 
----
 
-# 📌 Development Insights
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShaktiKourav&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-> **Note:** WakaTime widget data tabhi dikhega jab tumhara `wakatime.yml` workflow aur WakaTime account properly configure hoga.
 
 ---
+
 
 # 🚀 Coding Activity
 
