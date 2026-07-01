@@ -339,7 +339,7 @@ END_SECTION:activity
 
 
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 

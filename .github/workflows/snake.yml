@@ -17,7 +17,7 @@ jobs:
           outputs: |
             dist/snake.svg
 
-      - name: Deploy
+      - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
