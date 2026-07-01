@@ -325,11 +325,11 @@ END_SECTION:activity
 
 ---
 
-# 🚀 GitHub Metrics
+## 📊 GitHub Metrics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ShaktiKourav/ShaktiKourav/main/github-metrics.svg" />
+<img src="https://github.com/ShaktiKourav/ShaktiKourav/blob/output/metrics.svg" />
 
 </div>
 
@@ -346,12 +346,13 @@ END_SECTION:activity
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ShaktiKourav/ShaktiKourav/main/output/snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/ShaktiKourav/ShaktiKourav/output/github-contribution-grid-snake.svg" />
 
+</div>
 
 
 
