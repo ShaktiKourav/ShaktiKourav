@@ -329,7 +329,7 @@ END_SECTION:activity
 
 <div align="center">
 
-<img src="https://github.com/ShaktiKourav/ShaktiKourav/blob/output/github-metrics.svg" />
+<img src="https://github.com/ShaktiKourav/ShaktiKourav/blob/output/metrics.svg" />
 
 </div>
 
