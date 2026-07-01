@@ -1,4 +1,4 @@
-name: GitHub Profile Auto Update
+name: Profile Generator
 
 on:
   schedule:
@@ -28,7 +28,7 @@ jobs:
           user: ShaktiKourav
           filename: metrics.svg
 
-      # 🚀 DEPLOY OUTPUT
+      # 🚀 DEPLOY
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:

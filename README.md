@@ -320,7 +320,6 @@ END_SECTION:activity
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ShaktiKourav/ShaktiKourav/output/snake.svg" />
-
 </div>
 
 ---
@@ -329,8 +328,7 @@ END_SECTION:activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ShaktiKourav/ShaktiKourav/output/metrics.svg" />
-
+<img src="https://raw.githubusercontent.com/ShaktiKourav/ShaktiKourav/main/github-metrics.svg" />
 </div>
 
 ---
