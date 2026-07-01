@@ -741,20 +741,10 @@ https://github.com/ShaktiKourav/DSA-With-CPP
 📂 Repository:
 https://github.com/ShaktiKourav/DSA-With-JAVA
 
----
-
-# 📂 Repository Showcase
-
-| Repository | Description |
-|------------|-------------|
-| DSA-With-CPP | DSA in C++ |
-| DSA-With-JAVA | DSA in Java |
-| Face-Detection | Computer Vision |
-| Portfolio-Website | Personal Portfolio |
-| E-Commerce-Website | Shopping Website |
-| Tic-Tac-Toe | JavaScript Game |
 
 ---
+
+
 
 # 🏆 Achievements
 
