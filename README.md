@@ -315,22 +315,21 @@ END_SECTION:activity
 
 ---
 
-# 🐍 Snake Contribution
+## 🐍 Snake
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ShaktiKourav/ShaktiKourav/output/snake.svg" />
 
 </div>
- 
 
- ---
+---
 
+## 📊 Metrics
 
-
-# 📊 GitHub Metrics
 <div align="center">
 
-<img src="https://github.com/ShaktiKourav/ShaktiKourav/blob/output/metrics.svg" />
+<img src="https://raw.githubusercontent.com/ShaktiKourav/ShaktiKourav/output/metrics.svg" />
 
 </div>
 
