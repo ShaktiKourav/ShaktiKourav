@@ -333,18 +333,11 @@ END_SECTION:activity
 
 </div>
 
----
-
-
-# 🧊 3D Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ShaktiKourav/ShaktiKourav/output/profile-3d.svg" />
-
-</div>
 
 ---
+
+
+
 
 # 🐍 Contribution Snake
 
