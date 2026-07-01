@@ -219,18 +219,6 @@ Location:
 ---
 
 <!-- ===================================================== -->
-## 🔥 Contribution Statistics
-<!-- ===================================================== -->
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=ShaktiKourav&limit=5&theme=tokyonight&cache_seconds=86400"/>
-
-</div>
-
----
-
-<!-- ===================================================== -->
 ## ⏰ Productive Time & Commit Stats
 <!-- ===================================================== -->
 
