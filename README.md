@@ -341,11 +341,16 @@ END_SECTION:activity
 
 # 🐍 Contribution Snake
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ShaktiKourav/ShaktiKourav/output/snake.svg" />
+</div>
+
+</div>
 
 
-![snake gif](https://github.com/ShaktiKourav/ShaktiKourav/blob/output/github-contribution-grid-snake.gif)
 
-
+</div>
 
 ---
 
