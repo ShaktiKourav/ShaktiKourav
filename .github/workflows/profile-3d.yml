@@ -1,34 +1,44 @@
-name: 3D Contribution Graph
+name: Generate GitHub Assets (Snake + 3D Profile)
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-      - name: Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
-          USERNAME: ShaktiKourav
+      # =========================
+      # 🐍 SNAKE ANIMATION
+      # =========================
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg
 
-      - name: Commit & Push
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      # =========================
+      # 🌍 3D CONTRIBUTION PROFILE
+      # =========================
+      - name: Generate 3D Profile
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          username: ${{ github.repository_owner }}
+          output: dist/profile-3d.svg
 
-          git add output/profile-3d-contrib.svg
-
-          git diff --cached --quiet || git commit -m "Update 3D contribution graph"
-
-          git push
+      # =========================
+      # 🚀 DEPLOY TO OUTPUT BRANCH
+      # =========================
+      - name: Publish to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
