@@ -329,61 +329,21 @@ Location:
 
 ---
 
-## ⚡ LIVE STATS DASHBOARD
 
-<div align="center">
-
-### 💻 GitHub
-<img src="https://github-readme-stats.vercel.app/api?username=ShaktiKourav&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaktiKourav&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🧠 Coding Progress
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaktiKourav&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🟩 Problem Solving
-
-<div align="center">
-
-### LeetCode
-<img src="https://leetcard.jacoblin.cool/ShaktiKourav?theme=dark&font=baloo&ext=contest"/>
-
-</div>
-
----
 
 ## ☁ Achievements Snapshot
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Microsoft_Learn-XP_3330-0078D4?style=for-the-badge&logo=microsoft"/>
-<img src="https://img.shields.io/badge/Level-6-ffcc00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Badges-9-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Level-11-ffcc00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/trophies-31-purple?style=for-the-badge"/>
 
 </div>
 
----
 
-## 🔥 Auto Stats (Dynamic Section)
 
-<!--START_SECTION:stats-->
-```txt
-GitHub: Active Developer 🚀
-LeetCode: Improving Problem Solving 🧠
-HackerRank: Skill Building 🟢
-Microsoft Learn: Certified Learner ☁
-<!--END_SECTION:stats-->
+
 
 ---
 
