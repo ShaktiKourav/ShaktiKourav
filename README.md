@@ -270,15 +270,6 @@ Location:
 ---
 
 
-## 📈 Recent GitHub Activity
-
-START_SECTION:activity
-END_SECTION:activity
-
-
----
-
-
 # 📈 Contribution Activity
 
 <div align="center">
@@ -319,7 +310,7 @@ END_SECTION:activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ShaktiKourav/ShaktiKourav/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/ShaktiKourav/ShaktiKourav/output/snake-dark.svg" />
 </div>
 
 ---
