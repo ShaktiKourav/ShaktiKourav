@@ -1,4 +1,4 @@
-name: GitHub Profile Auto Generator
+name: GitHub Profile Auto Update
 
 on:
   schedule:
@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v3
 
       # ======================
-      # 🐍 SNAKE
+      # 🐍 SNAKE GENERATION
       # ======================
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -24,13 +24,14 @@ jobs:
             dist/snake.svg
 
       # ======================
-      # 📊 METRICS SVG
+      # 📊 METRICS GENERATION
       # ======================
       - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: ShaktiKourav
+
           template: classic
           base: header, activity, repositories, metadata
 
@@ -40,18 +41,9 @@ jobs:
           plugin_stars: yes
 
       # ======================
-      # 🧊 3D PROFILE
+      # 🚀 DEPLOY OUTPUT
       # ======================
-      - name: Generate 3D Profile
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        with:
-          username: ShaktiKourav
-          output: dist/profile-3d.svg
-
-      # ======================
-      # 🚀 DEPLOY CLEAN OUTPUT
-      # ======================
-      - name: Deploy
+      - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

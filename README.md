@@ -315,40 +315,22 @@ END_SECTION:activity
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShaktiKourav&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 📊 GitHub Metrics
-
-<div align="center">
-
-<img src="https://github.com/ShaktiKourav/ShaktiKourav/blob/output/metrics.svg" />
-
-</div>
-
-
----
-
-
-
-
-# 🐍 Contribution Snake
-
+# 🐍 Snake Contribution
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ShaktiKourav/ShaktiKourav/output/snake.svg" />
-</div>
 
 </div>
+ 
+
+ ---
 
 
+
+# 📊 GitHub Metrics
+<div align="center">
+
+<img src="https://github.com/ShaktiKourav/ShaktiKourav/blob/output/metrics.svg" />
 
 </div>
 
