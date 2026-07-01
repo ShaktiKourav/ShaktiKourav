@@ -17,10 +17,9 @@ jobs:
           outputs: |
             dist/snake.svg
 
-      - name: Push to output branch (SAFE METHOD)
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Deploy safely
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
