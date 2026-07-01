@@ -310,8 +310,7 @@ Location:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ShaktiKourav/ShaktiKourav/output/snake.svg" />
-</div>
+<img src="https://raw.githubusercontent.com/ShaktiKourav/ShaktiKourav/output/github-contribution-grid-snake-dark.svg" /></div>
 
 ---
 
