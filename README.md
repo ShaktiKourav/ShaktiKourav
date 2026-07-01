@@ -348,42 +348,10 @@ END_SECTION:activity
 
 # 🐍 Contribution Snake
 
-<!-- ========================= HERO ANIMATION ========================= -->
-
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
-     width="40%" style="max-width:400px;" />
+<img src="https://raw.githubusercontent.com/ShaktiKourav/ShaktiKourav/main/output/snake-dark.svg" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-     width="80%" style="max-width:700px;" />
-
-</div>
-
----
-
-<!-- ========================= SNAKE ANIMATION (DYNAMIC SAFE) ========================= -->
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-     alt="GitHub Contribution Snake Animation"
-     width="100%"
-     style="max-width:900px;" />
-
-</div>
-
----
-
-<!-- ========================= BOTTOM BANNER ========================= -->
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
-     width="100%"
-     style="max-width:1000px;" />
-
-</div>
 
 
 
