@@ -318,38 +318,71 @@ Location:
 
 # 📊 Developer Intelligence Dashboard
 
-<!--START_SECTION:stats-->
+<div align="center">
 
-<!-- ================= AUTO GENERATED STATS ================= -->
+<!-- GitHub Badge Row -->
+<img src="https://img.shields.io/badge/GitHub-ShaktiKourav-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Status-Active-00ff00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-FullStack%20Dev-blue?style=for-the-badge"/>
 
-## 📊 Developer Dashboard
+</div>
+
+---
+
+## ⚡ LIVE STATS DASHBOARD
+
+<div align="center">
 
 ### 💻 GitHub
-- Repositories: 0
-- Followers: 7
-- Stars: 0
-- Forks: 0
+<img src="https://github-readme-stats.vercel.app/api?username=ShaktiKourav&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### 🧠 LeetCode
-- Solved: [object Object]
-- Easy: 0
-- Medium: 0
-- Hard: 0
-- Rating: 0
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaktiKourav&theme=tokyonight&hide_border=true"/>
 
-### 🟩 HackerRank
-- Rank: N/A
-- Badges: 6
-- Points: 0
+</div>
 
-### ☁ Microsoft Learn
-- XP: 3330
-- Level: 6
-- Badges: 9
-- Achievements: 14
+---
 
-<!-- ======================================================== -->
+## 🧠 Coding Progress
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaktiKourav&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🟩 Problem Solving
+
+<div align="center">
+
+### LeetCode
+<img src="https://leetcard.jacoblin.cool/ShaktiKourav?theme=dark&font=baloo&ext=contest"/>
+
+</div>
+
+---
+
+## ☁ Achievements Snapshot
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Microsoft_Learn-XP_3330-0078D4?style=for-the-badge&logo=microsoft"/>
+<img src="https://img.shields.io/badge/Level-6-ffcc00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Badges-9-purple?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🔥 Auto Stats (Dynamic Section)
+
+<!--START_SECTION:stats-->
+```txt
+GitHub: Active Developer 🚀
+LeetCode: Improving Problem Solving 🧠
+HackerRank: Skill Building 🟢
+Microsoft Learn: Certified Learner ☁
 <!--END_SECTION:stats-->
 
 ---
