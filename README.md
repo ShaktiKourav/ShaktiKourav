@@ -697,51 +697,116 @@ System Design    ████
 
 ---
 
-<!-- ===================================================== -->
-<!--              🚀 FEATURED PROJECTS                      -->
-<!-- ===================================================== -->
-
 # 🚀 Featured Projects
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Featured-Projects-00c8ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-C++%20%7C%20Java-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Level-Interview%20Ready-success?style=for-the-badge"/>
+
+</div>
+
+---
 
 ## 💻 DSA With C++
 
-> A comprehensive collection of Data Structures & Algorithms solutions in C++ for interview preparation and competitive programming.
+<div align="center">
 
-### Tech Stack
-
-<p>
 <img src="https://skillicons.dev/icons?i=cpp"/>
-</p>
 
-### Highlights
+</div>
 
-- Arrays
-- Strings
-- Linked List
-- Stack & Queue
-- Trees
-- Graphs
-- Dynamic Programming
-- Recursion
-- Binary Search
+> A structured collection of **Data Structures & Algorithms in C++**, focused on **interview preparation + problem solving mastery**.
 
-📂 Repository:
-https://github.com/ShaktiKourav/DSA-With-CPP
+### 🔥 Key Topics
+- Arrays & Strings  
+- Linked List  
+- Stack & Queue  
+- Trees & BST  
+- Graphs  
+- Recursion  
+- Dynamic Programming  
+- Binary Search  
+
+<div align="center">
+
+<a href="https://github.com/ShaktiKourav/DSA-With-CPP">
+<img src="https://img.shields.io/badge/View%20Repository-DSA%20With%20C++-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
 ## ☕ DSA With Java
 
-> Java implementation of popular Data Structures & Algorithms with clean explanations and optimized solutions.
+<div align="center">
 
-<p>
 <img src="https://skillicons.dev/icons?i=java"/>
-</p>
 
-📂 Repository:
-https://github.com/ShaktiKourav/DSA-With-JAVA
+</div>
 
+> Clean and optimized **Java-based DSA solutions** with structured problem-solving approach.
 
+### 🔥 Key Focus
+- Problem Solving Patterns  
+- Optimized Solutions  
+- Interview Questions  
+- Clean Code Practice  
+
+<div align="center">
+
+<a href="https://github.com/ShaktiKourav/DSA-With-JAVA">
+<img src="https://img.shields.io/badge/View%20Repository-DSA%20With%20Java-007396?style=for-the-badge&logo=java"/>
+</a>
+
+</div>
+
+---
+
+## 🧠 LeetCode Java Solutions (🔥 Featured)
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-Progress-FFA116?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/Status-Active%20Problem%20Solver-success?style=for-the-badge"/>
+
+</div>
+
+> A growing collection of **LeetCode problems solved in Java**, organized by problem number for easy revision.
+
+### 📌 Highlights
+- 0003 – Longest Substring Without Repeating Characters  
+- 0012 – Integer to Roman  
+- 0029 – Divide Two Integers  
+- 0034 – Find First and Last Position  
+- 0046 – Permutations  
+- 0050 – Pow(x, n)  
+- 0083 – Remove Duplicates  
+- 0121 – Best Time to Buy and Sell Stock  
+- 0202 – Happy Number  
+- 0219 – Contains Duplicate II  
+- 0283 – Move Zeroes  
+- 0371 – Sum of Two Integers  
+
+<div align="center">
+
+<a href="https://github.com/ShaktiKourav/LeetCode-Java">
+<img src="https://img.shields.io/badge/Explore%20Solutions-LeetCode%20Java-0d1117?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+## ⚡ Developer Note
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?size=20&color=00F7FF&center=true&vCenter=true&width=600&lines=Consistency+is+the+key;DSA+Practice+Daily;Building+Problem+Solving+Skills;Java+%26+C%2B%2B+Mastery"/>
+
+</div>
 ---
 
 
