@@ -551,9 +551,12 @@ Open Source             █████████
 
 </div>
 
+<br/>
+<div align="center">
 <a href="https://leetcode.com/u/Shakti_kourav/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
+</div>
 
 
 ---
