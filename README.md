@@ -66,7 +66,7 @@ Learning:
 
 Goal:
   Software Engineer
-  Product Based Company
+
 
 Currently Building:
   Portfolio
