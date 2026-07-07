@@ -806,12 +806,13 @@ System Design    ████
 - Interview Questions  
 - Clean Code Practice  
 
+<br>
 <div align="center">
 
 <a href="https://github.com/ShaktiKourav/DSA-With-JAVA">
 <img src="https://img.shields.io/badge/View%20Repository-DSA%20With%20Java-007396?style=for-the-badge&logo=java"/>
 </a>
-
+<br>
 </div>
 
 ---
@@ -819,10 +820,10 @@ System Design    ████
 ## 🧠 LeetCode Java Solutions (🔥 Featured)
 
 <div align="center">
-
+<br>
 <img src="https://img.shields.io/badge/LeetCode-Progress-FFA116?style=for-the-badge&logo=leetcode"/>
 <img src="https://img.shields.io/badge/Status-Active%20Problem%20Solver-success?style=for-the-badge"/>
-
+<br>
 </div>
 
 > A growing collection of **LeetCode problems solved in Java**, organized by problem number for easy revision.
@@ -841,12 +842,13 @@ System Design    ████
 - 0283 – Move Zeroes  
 - 0371 – Sum of Two Integers  
 
+<br>
 <div align="center">
 
 <a href="https://github.com/ShaktiKourav/LeetCode-Java">
 <img src="https://img.shields.io/badge/Explore%20Solutions-LeetCode%20Java-0d1117?style=for-the-badge&logo=github"/>
 </a>
-
+<br>
 </div>
 
 ---
