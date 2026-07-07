@@ -760,7 +760,7 @@ System Design    ████
 <img src="https://skillicons.dev/icons?i=python,fastapi,docker"/>
 
 </div>
-
+<br>
 > An AI-powered **Retrieval-Augmented Generation (RAG)** chatbot that enables users to upload documents and ask questions in multiple languages using **Google Gemini**, **ChromaDB**, and **Sentence Transformers**.
 
 ### 🔥 Key Features
