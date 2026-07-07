@@ -503,6 +503,7 @@ Open Source             █████████
 <!-- ===================================================== -->
 
 # 💻 Coding Profiles
+<br>
 
 <div align="center">
 
@@ -527,7 +528,7 @@ Open Source             █████████
 </a>
 
 </div>
-
+<br>
 ---
 
 # 🧠 LeetCode Dashboard
@@ -823,9 +824,9 @@ System Design    ████
 <br>
 <img src="https://img.shields.io/badge/LeetCode-Progress-FFA116?style=for-the-badge&logo=leetcode"/>
 <img src="https://img.shields.io/badge/Status-Active%20Problem%20Solver-success?style=for-the-badge"/>
-<br>
-</div>
 
+</div>
+<br>
 > A growing collection of **LeetCode problems solved in Java**, organized by problem number for easy revision.
 
 ### 📌 Highlights
