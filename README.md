@@ -193,19 +193,6 @@ Location:
 <!--              📊 GITHUB ANALYTICS DASHBOARD             -->
 <!-- ===================================================== -->
 
-
-<!-- ===================================================== -->
-## 📈 GitHub Streak Stats
-<!-- ===================================================== -->
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ShaktiKourav&theme=tokyonight&hide_border=true&cache_seconds=3600" />
-
-</div>
-
----
-
 <!-- ===================================================== -->
 ## 📊 GitHub Activity Graph
 <!-- ===================================================== -->
@@ -441,7 +428,7 @@ Location:
 | Face-Detection | Computer Vision project |
 | E-Commerce-Website | Modern shopping website |
 | Portfolio-Website | Personal portfolio |
-| Tic-Tac-Toe | JavaScript game |
+| Multilingual RAG chatbot | AI-powered Retrieval-Augmented Generation (RAG) |
 
 ---
 
@@ -741,6 +728,61 @@ System Design    ████
 
 <a href="https://github.com/ShaktiKourav/DSA-With-CPP">
 <img src="https://img.shields.io/badge/View%20Repository-DSA%20With%20C++-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 🌍 Multilingual RAG Chatbot
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ChromaDB-6A5ACD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker"/>
+
+</div>
+
+> An AI-powered **Retrieval-Augmented Generation (RAG)** chatbot that enables users to upload documents and ask questions in multiple languages using **Google Gemini**, **ChromaDB**, and **Sentence Transformers**.
+
+### 🔥 Key Features
+
+- 📄 PDF, DOCX & TXT Document Processing
+- 🌍 Multilingual Question Answering
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 🔍 Semantic Search with Sentence Transformers
+- 📚 ChromaDB Vector Database
+- 🤖 Google Gemini AI Integration
+- ⚡ FastAPI REST API Backend
+- 💬 Real-time Streaming Responses
+- 🐳 Docker Deployment Ready
+- 🤗 Hugging Face Spaces Deployment
+
+<div align="center">
+
+<a href="https://github.com/ShaktiKourav/RAG-Chatbot">
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://shaktikourav-multilingual-rag-chat.hf.space/">
+<img src="https://img.shields.io/badge/Live%20Demo-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white"/>
 </a>
 
 </div>
