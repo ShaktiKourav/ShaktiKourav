@@ -27,7 +27,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, I'm **Shakti Kourav**
 
-### 💻 Frontend Developer • React.js Enthusiast • DSA With C++ • Future Software Engineer
+### 💻 Full Stack Developer • React.js Enthusiast • DSA With C++ • Future Software Engineer
 
 I am a **B.Tech Computer Science Engineering** student passionate about building modern web applications, solving Data Structures & Algorithms problems, and continuously improving my software engineering skills.
 
