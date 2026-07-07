@@ -775,6 +775,7 @@ System Design    ████
 - 🐳 Docker Deployment Ready
 - 🤗 Hugging Face Spaces Deployment
 
+<br>
 <div align="center">
 
 <a href="https://github.com/ShaktiKourav/RAG-Chatbot">
@@ -784,7 +785,7 @@ System Design    ████
 <a href="https://shaktikourav-multilingual-rag-chat.hf.space/">
 <img src="https://img.shields.io/badge/Live%20Demo-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white"/>
 </a>
-
+<br>
 </div>
 
 ---
