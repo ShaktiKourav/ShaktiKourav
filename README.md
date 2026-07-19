@@ -358,7 +358,7 @@ Location:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShaktiKourav&theme=tokyonight&utcOffset=5.5"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShaktiKourav&theme=tokyonight" alt="Coding Activity"/>
 
 </div>
 
