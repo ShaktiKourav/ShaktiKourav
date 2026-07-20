@@ -349,23 +349,6 @@ Location:
 </div>
 
 
-
-
----
-
-
-# 🚀 Coding Activity
-
-<div align="center">
-
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShaktiKourav&theme=tokyonight" alt="Coding Activity"/> -->
-<img src="https://github-readme-stats.vercel.app/api?username=ShaktiKourav&show_icons=true&theme=tokyonight"/>
-
-<img src="https://streak-stats.demolab.com?user=ShaktiKourav&theme=tokyonight"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaktiKourav&theme=tokyo-night"/>
-</div>
-
 ---
 
 # 💡 Developer Philosophy
