@@ -42,7 +42,7 @@ Name:
   Shakti Kourav
 
 Role:
-  Frontend Developer
+  Full Stack Developer
 
 Education:
   Bachelor of Technology
